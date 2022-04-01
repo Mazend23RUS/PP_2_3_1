@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.*;
 import web.Model.User;
 import web.UserService.UserService;
 
-@SuppressWarnings({"ALL", "SpringJavaInjectionPointsAutowiringInspection"})
 @Controller
 public class UserController {
 
